@@ -1,5 +1,6 @@
 # Aplicativo para reserva e orçamento de tatuagem
 _Este aplicativo consiste em um ambiente onde o tatuado tera as seguntes opçoes_
+  - Login e Senha Para Prestadores
   - Cadastro Simples de Clientes
   - Visualização de horarios disponiveis
   - Opção de solcitação de Orcamenteos com
@@ -16,9 +17,9 @@ _Este aplicativo consiste em um ambiente onde o tatuado tera as seguntes opçoes
  - Node.js
  - React JS
  - React Native
- - SQL Server
+ - Postgres
  - MongoDB
- - Web Scoket
+ - Web Scoket (Scoket.io)
 
 ## Logs de desenvolvimento e anotações
   - 28/01/2019 > Inicio do porjeto + Estruturação
