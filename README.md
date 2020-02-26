@@ -22,4 +22,5 @@ _Este aplicativo consiste em um ambiente onde o tatuado tera as seguntes opçoes
  - Web Scoket (Scoket.io)
 
 ## Logs de desenvolvimento e anotações
-  - 28/01/2019 > Inicio do porjeto + Estruturação
+  - 20/01/2020 > Inicio do porjeto + Estruturação
+  - 26/02/2020 > Inicio criação do Usuario
